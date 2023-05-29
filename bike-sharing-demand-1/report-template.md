@@ -31,12 +31,12 @@ I might give a try to the feature engineering or fine tuning the model.
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](bike-sharing-demand-1/model_train_score.png)
+![model_train_score.png](/bike-sharing-demand-1/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
-![model_test_score.png](bike-sharing-demand-1/model_test_score.png)
+![model_test_score.png](/bike-sharing-demand-1/model_test_score.png)
 
 ## Summary
 The project began with Kaggle and Sagemaker setups then after visualized the data and trained the models.
